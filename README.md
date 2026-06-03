@@ -1,5 +1,5 @@
 # Macropad V2
-An upgraded Macropad that features more keys and uses matricies to wire them up ensuring efficient wiring and use of pins!
+An upgraded Macropad that features 9 keys and uses matricies to wire them up ensuring efficient wiring and use of pins, The keys are wired in a row's of 3 and columns of 3, This allows only 6 pins to be used
 
 # Why I made this?
 I made this because I wamted to iterate and improve on my last macropad where I messed up while putting in the screws
