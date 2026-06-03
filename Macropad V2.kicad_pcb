@@ -17970,6 +17970,17 @@
 		)
 		(embedded_fonts no)
 	)
+	(gr_arc
+		(start 110.39 68.72)
+		(mid 111.717999 66.439402)
+		(end 114.062754 65.228272)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "B.SilkS")
+		(uuid "37efe78d-78d0-4106-bfab-158f0844adb5")
+	)
 	(gr_rect
 		(start 75.56 45.39)
 		(end 132.77 127.44)
@@ -18213,6 +18224,18 @@
 					(xy 89.045471 51.491678) (xy 89.055655 51.382494)
 				)
 			)
+		)
+	)
+	(gr_text "A tribute to the Macropad that started it all :)"
+		(at 126.63 75.97 315)
+		(layer "B.SilkS")
+		(uuid "49152a49-e300-4a9b-b0d3-1806426f21dd")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+			(justify left bottom mirror)
 		)
 	)
 	(segment
