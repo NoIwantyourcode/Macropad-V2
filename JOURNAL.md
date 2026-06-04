@@ -13,4 +13,5 @@ This is what the case looks like:
 <img width="1388" height="973" alt="Screenshot 2026-06-03 211522" src="https://github.com/user-attachments/assets/935c1f57-b0b8-4018-a103-aca4c5c94950" />
 
 # June 3rd, 2026 - Finished the firmware and bom - 1 hour
-I finished
+I finished the BOM and firmware, I decided to use KMK as it was easier to use
+<img width="656" height="829" alt="Screenshot 2026-06-04 083344" src="https://github.com/user-attachments/assets/2a625b7d-aece-4b9c-a002-d4a772168388" />
