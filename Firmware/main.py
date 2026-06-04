@@ -4,17 +4,16 @@ from kmk.keys import KC
 from kmk.modules.layers import Layers
 
 keyboard = KMKKeyboard()
-keyboard.modules.append(Layers())  # Enable layer support
+keyboard.modules.append(Layers())
 
-cols = [board.GP2, board.GP3, board.GP4]  # Example column pins
-rows = [board.GP5, board.GP6, board.GP7]  # Example row pins
+cols = [board.GP2, board.GP3, board.GP4]
+rows = [board.GP5, board.GP6, board.GP7] 
 
 keyboard.col_pins = cols
 keyboard.row_pins = rows
 keyboard.diode_orientation = "COL2ROW"
 
 keyboard.keymap = [
-    # Layer 0
     [
         KC.Q, KC.W, KC.E,
         KC.A, KC.S, KC.D,
@@ -23,5 +22,4 @@ keyboard.keymap = [
 ]
 
 if __name__ == '__main__':
-    # Start the keyboard firmware
     keyboard.go()
