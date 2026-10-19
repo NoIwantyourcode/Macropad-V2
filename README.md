@@ -22,3 +22,7 @@ I made this because I wamted to iterate and improve on my last macropad where I 
 
 # Assembled picture
 <img width="2048" height="1537" alt="WhatsApp Image 2026-07-02 at 5 22 14 PM" src="https://github.com/user-attachments/assets/a9dcc339-a8e6-4fbe-9340-87f6848aecab" />
+
+# Demo video link
+
+here [https://youtube.com/shorts/qXaWAsnLh1U](https://youtube.com/shorts/qXaWAsnLh1U)
