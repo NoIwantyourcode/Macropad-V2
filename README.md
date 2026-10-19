@@ -19,3 +19,6 @@ I made this because I wamted to iterate and improve on my last macropad where I 
 # Assembled View
 <img width="806" height="1055" alt="Screenshot 2026-06-03 211707" src="https://github.com/user-attachments/assets/08a8a238-188c-4785-b7e5-7c73164fb305" />
 <img width="1388" height="973" alt="Screenshot 2026-06-03 211522" src="https://github.com/user-attachments/assets/4adfa4da-d81b-46a8-b289-7a5014615ebe" />
+
+# Assembled picture
+<img width="2048" height="1537" alt="WhatsApp Image 2026-07-02 at 5 22 14 PM" src="https://github.com/user-attachments/assets/a9dcc339-a8e6-4fbe-9340-87f6848aecab" />

@@ -1,4 +1,12 @@
-**Total time: 4**
+**Total time: 9 hours**
+
+# June 24th - 3 hours
+I spent 3 hours debugging the code in Thonny and rerunning it over and over again till the macropad works, This took 3 hours as its my first time using matrix wiring and I wanted to learn how to utilize it properly
+<img width="1183" height="1025" alt="Screenshot 2026-07-02 175238" src="https://github.com/user-attachments/assets/3385b45e-9abd-4783-ac08-3cf19419ec58" />
+
+# June 23rd - 2 hours
+I completely soldered the PCB, I added the XIAO, Key switches and the diodes and then 3D printed and assembled the case
+<img width="1537" height="2048" alt="WhatsApp Image 2026-07-02 at 5 46 56 PM" src="https://github.com/user-attachments/assets/bfb7b4b8-cb0a-4572-898c-b1ae6d7991bf" />
 
 # June 3rd, 2026 - Finished the Schematics and PCB routing - 1 hour
 I finished the schematics, When looking at the official hackpad guide I realised that I should use the matricies method of wiring as it would reduce the number of pins required on the XIAO

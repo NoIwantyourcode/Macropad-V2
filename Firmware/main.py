@@ -2,16 +2,18 @@ import board
 from kmk.kmk_keyboard import KMKKeyboard
 from kmk.keys import KC
 from kmk.modules.layers import Layers
+from kmk.scanners import DiodeOrientation 
 
 keyboard = KMKKeyboard()
 keyboard.modules.append(Layers())
 
-cols = [board.GP2, board.GP3, board.GP4]
-rows = [board.GP5, board.GP6, board.GP7] 
+cols = [board.D0, board.D1, board.D2]
+rows = [board.D3, board.D4, board.D5] 
 
 keyboard.col_pins = cols
 keyboard.row_pins = rows
-keyboard.diode_orientation = "COL2ROW"
+
+keyboard.diode_orientation = DiodeOrientation.COL2ROW 
 
 keyboard.keymap = [
     [
